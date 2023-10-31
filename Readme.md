@@ -2,7 +2,7 @@
 
 EVOGYM, kişisel fitness hedeflerinizi izlemenize, derslere katılmanıza ve avantajlarımızdan yararlanmanıza yardımcı olan bir fitness web sitesidir.
 
-<img src=""/>
+<img src="![gym](https://github.com/seyemr/GYMWEBS-TE/assets/124307932/a9271ee5-daed-44be-8695-9e70e77b7252)"/>
 
 ## Proje Hakkında
 
