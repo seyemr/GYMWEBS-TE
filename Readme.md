@@ -32,8 +32,8 @@ Bu proje, aşağıdaki kütüphane sürümlerini gerektirir:
 - Prettier Plugin Tailwind CSS: ^0.2.8
 - Tailwind CSS: ^3.3.2
 
-
-
+# Demo
+link: https://main--incandescent-shortbread-10fe6a.netlify.app/
 
 ## Katkıda Bulunma
 
